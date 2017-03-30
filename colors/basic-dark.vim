@@ -25,8 +25,8 @@ let s:window = "37474f"
 let s:grey = "b0bec5"
 
 if !has("gui_running")
-    let s:background = "202020"
-    let s:line = "303030"
+    let s:background = "303030"
+    let s:line = "404040"
 endif
 
 set background=dark
